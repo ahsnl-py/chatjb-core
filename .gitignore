@@ -1,0 +1,7 @@
+data/
+notebook/
+env_dev/
+.env
+.vscode
+src/main.py
+*__pycache__
